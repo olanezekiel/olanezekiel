@@ -15,4 +15,4 @@
 
 ### 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/ezekiel-olanrewaju-31668b331](https://www.linkedin.com/in/ezekiel-olanrewaju-31668b331)
-* **Email:** Olanrewajuezekiell21@gmail.com
+* **Email:** Olanrewajuezekiel121@gmail.com
