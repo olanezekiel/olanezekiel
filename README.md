@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ezekiel Olanrewaju
 
-<!--
-**olanezekiel/olanezekiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Just a boy who believes we aren't using data enough. There is so much to gain, and even more to learn, to make the world a better place."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Database & Analysis:** SQL (PostgreSQL), Advanced Excel
+* **Visualization:** Power BI (Custom DAX Modeling)
+* **Programming:** Python (Pandas, Numpy, Matplotlib)
+
+### 🚀 Key Projects
+* **[Bellabeat Marketing Analytics](https://github.com/olanezekiel/Google_Data_Analytics_Capstone):** An end-to-end pipeline analyzing 25,000+ rows of smart device data to drive marketing strategy.
+* **[Project EDGE](https://github.com/olanezekiel/Python_data_project):** A decision intelligence system focused on football scouting and player evaluation.
+
+### 📫 Connect with me
+* **LinkedIn:** [linkedin.com/in/ezekiel-olanrewaju-31668b331](https://www.linkedin.com/in/ezekiel-olanrewaju-31668b331)
+* **Email:** Olanrewajuezekiell21@gmail.com
