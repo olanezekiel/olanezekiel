@@ -5,12 +5,12 @@
 ---
 
 ### 🛠️ Technical Stack
-* **Database & Analysis:** SQL (PostgreSQL), Advanced Excel
-* **Visualization:** Power BI (Custom DAX Modeling)
-* **Programming:** Python (Pandas, Numpy, Matplotlib)
+* **Database & Analysis:** SQL (PostgreSQL, CTEs, Window Functions), Advanced Excel
+* **Visualization:** Power BI (Custom DAX Modeling), Python (Matplotlib)
+* **Programming:** Python (Pandas, Numpy)
 
 ### 🚀 Key Projects
-### 🚀 Key Projects
+* **[E-Commerce Sales & Customer Intelligence Analysis]():** An end-to-end SQL analysis utilizing advanced PostgreSQL to model customer behavior, segment lifetime value (LTV), and identify retention leaks to drive strategic marketing decisions.
 * **[Bellabeat Marketing Analysis](https://github.com/olanezekiel/Google_Data_Analytics_Capstone):** An end-to-end pipeline analyzing 25,000+ rows of smart device data to drive marketing strategy.
 * **[Job Market Analysis](https://github.com/olanezekiel/Python_data_project):** A Python-driven exploration of the Data Analyst landscape, identifying high-demand skills and salary trends using Pandas and Matplotlib.
 
