@@ -1,19 +1,29 @@
 # Ezekiel Olanrewaju
 
-> "Just a boy who believes we aren't using data enough. There is so much to gain, and even more to learn, to make the world a better place."
+*"Everything is a system waiting to be understood. I use data to map the present, and code to build what comes next."*
+
+With a strong background in data analysis, I am currently expanding my foundations into quantitative systems and low-level software architecture. I believe in mastering both the high-level business intelligence required to understand markets, and the bare-metal systems required to execute within them.
 
 ---
 
-### 🛠️ Technical Stack
-* **Database & Analysis:** SQL (PostgreSQL, CTEs, Window Functions), Advanced Excel
-* **Visualization:** Power BI (Custom DAX Modeling), Python (Matplotlib)
-* **Programming:** Python (Pandas, Numpy)
+### 🛠️ Core Technical Arsenal
 
-### 🚀 Key Projects
-* **[E-Commerce Sales & Customer Intelligence Analysis](https://github.com/olanezekiel/contosoDS_business_analysis):** An end-to-end SQL analysis utilizing advanced PostgreSQL to model customer behavior, segment lifetime value (LTV), and identify retention leaks to drive strategic marketing decisions.
-* **[Bellabeat Marketing Analysis](https://github.com/olanezekiel/Google_Data_Analytics_Capstone):** An end-to-end pipeline analyzing 25,000+ rows of smart device data to drive marketing strategy.
-* **[Job Market Analysis](https://github.com/olanezekiel/Python_data_project):** A Python-driven exploration of the Data Analyst landscape, identifying high-demand skills and salary trends using Pandas and Matplotlib.
+* **Low-Level & Systems:** C++, C, Memory Layout (Stack/Heap)
+* **Data Engineering & Scripting:** Python, Advanced SQL (PostgreSQL, CTEs, Window Functions)
+* **Analytics & Business Intelligence:** Data Analysis, Cohort Retention, Power BI, Financial Modeling, Advanced Excel
+* **Version Control:** Git, GitHub
 
-### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/ezekiel-olanrewaju-31668b331](https://www.linkedin.com/in/ezekiel-olanrewaju-31668b331)
-* **Email:** Olanrewajuezekiel121@gmail.com
+---
+
+### 📂 Featured Implementations
+
+* **[cpp_learning_journey_project](https://github.com/olanezekiel/cpp_learning_journey_project):** Modular implementations of core C++ language mechanics, memory lifecycles, and multi-file architectures.
+* **[contosoDS_business_analysis](https://github.com/olanezekiel/contosoDS_business_analysis):** Full customer lifetime value (LTV), cohort, and retention modeling built with advanced PostgreSQL window functions.
+* **[Google_Data_Analytics_Capstone](https://github.com/olanezekiel/Google_Data_Analytics_Capstone):** End-to-end data pipeline analyzing 25,000+ smart device activity records to identify strategic product positioning.
+
+---
+
+### 📬 Connect
+
+* **LinkedIn:** [Ezekiel Olanrewaju](https://www.linkedin.com/in/ezekiel-olanrewaju-31668b251/)
+* **Email:** olanrewajuezekiel121@gmail.com
