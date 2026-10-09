@@ -1,6 +1,6 @@
 # Ezekiel Olanrewaju
 
-*"Everything is a system waiting to be understood. I use data to map the present, and code to build what comes next."*
+*"Driven by the belief that better systems create a better world. Keep analyzing, Keep building 💪🏾"*
 
 With a strong background in data analysis, I am currently expanding my foundations into quantitative systems and low-level software architecture. I believe in mastering both the high-level business intelligence required to understand markets, and the bare-metal systems required to execute within them.
 
